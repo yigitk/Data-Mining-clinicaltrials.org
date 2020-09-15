@@ -1,0 +1,28 @@
+Andy Morrison
+Yigit Kucuk
+EECS 435
+Final project
+
+FILES INCLUDED IN PROJECT:
+- XMLReader.java
+- TrialReader.java
+- TrialGraph.java
+- FPMiner.java
+- Final graph results summary.txt
+- frequent patterns.txt
+- README.txt (this file)
+
+To run the code, please place TrialGraph.java, TrialReader.java, and XMLReader.java all in the same directory. Additionally, please place all clinical trials XML files into a folder called "trials data" in that same directory. 
+
+Once all of those files are arranged as described above, you can run the code in two steps:
+
+1. Edit the main method of TrialReader.java so it has the path to the directory in which you placed all of the above files.
+2. Run the main method of TrialReader.java.
+3. Edit the main method of TrialGraph.java; specify a directory of your choosing.
+4. Run the main method of TrialGraph.java.
+
+Once you've run TrialGraph.java, it will print the entire drug graph to a text file called "graph.txt". Furthermore, it will print out information summarizing the graph. I've included a copy of that printout, called "Final graph results summary.txt"
+
+Additionally, I have included a text file called "frequent patterns.txt" containing the output of FPMiner.java. By comparing it to "Final graph results summary.txt" you can see that our graph does an excellent job of finding frequent drugs in clinical trials data.
+
+If you have questions, please contact me at asm115@case.edu

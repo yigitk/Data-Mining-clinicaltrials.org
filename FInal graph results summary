@@ -1,0 +1,105 @@
+Before pruning effect nodes: 59319 nodes and 693034 edges.
+After pruning effect nodes: 1574 nodes and 958242 edges.
+
+Most negative connections:
+Bevacizumab--- (-110249.0) ---Docetaxel
+Antibodies, Monoclonal--- (-109358.0) ---Bevacizumab
+Bevacizumab--- (-108516.5) ---Carboplatin
+Bevacizumab--- (-107076.5) ---Everolimus
+Bevacizumab--- (-106054.0) ---Paclitaxel
+Bevacizumab--- (-102322.0) ---Cisplatin
+Bevacizumab--- (-99524.5) ---Capecitabine
+Bevacizumab--- (-96563.5) ---Gemcitabine
+BB 1101--- (-95157.0) ---Bevacizumab
+Bevacizumab--- (-94580.5) ---Dexamethasone
+Bevacizumab--- (-93586.0) ---Sirolimus
+Bevacizumab--- (-91905.5) ---Fluorouracil
+Bevacizumab--- (-91711.0) ---Dexamethasone 21-phosphate
+Bevacizumab--- (-91711.0) ---Dexamethasone acetate
+Bevacizumab--- (-87576.0) ---Cyclophosphamide
+Bevacizumab--- (-87411.5) ---Cetuximab
+Bevacizumab--- (-85216.5) ---Doxorubicin
+Bevacizumab--- (-83199.5) ---Erlotinib
+Bevacizumab--- (-81888.5) ---Interferon-alpha
+Everolimus--- (-81500.5) ---Sirolimus
+Bevacizumab--- (-80341.5) ---Oxaliplatin
+Carboplatin--- (-77262.5) ---Paclitaxel
+Bevacizumab--- (-76978.0) ---Irinotecan
+Bevacizumab--- (-76309.5) ---Liposomal doxorubicin
+BB 1101--- (-76040.0) ---Dexamethasone
+Bevacizumab--- (-74931.5) ---Lenalidomide
+Bevacizumab--- (-74373.5) ---Rituximab
+Bevacizumab--- (-74211.0) ---Methotrexate
+Antibodies, Monoclonal--- (-73841.0) ---Everolimus
+BB 1101--- (-73635.0) ---Dexamethasone 21-phosphate
+BB 1101--- (-73635.0) ---Dexamethasone acetate
+Antibodies, Monoclonal--- (-73572.0) ---Carboplatin
+Carboplatin--- (-73553.5) ---Docetaxel
+Antibodies, Monoclonal--- (-73238.0) ---Docetaxel
+Bevacizumab--- (-73158.5) ---Interferons
+Bevacizumab--- (-73081.0) ---Thalidomide
+Bevacizumab--- (-72702.0) ---Prednisone
+Antibodies--- (-72433.5) ---Bevacizumab
+Carboplatin--- (-71983.0) ---Everolimus
+Dexamethasone--- (-71942.0) ---Dexamethasone 21-phosphate
+Dexamethasone--- (-71942.0) ---Dexamethasone acetate
+Bevacizumab--- (-71355.0) ---Sorafenib
+Docetaxel--- (-71296.5) ---Everolimus
+Antibodies, Monoclonal--- (-70643.0) ---Paclitaxel
+Everolimus--- (-70367.0) ---Paclitaxel
+Cisplatin--- (-70188.0) ---Docetaxel
+Bevacizumab--- (-70172.0) ---Mycophenolate mofetil
+Bevacizumab--- (-70048.5) ---Mycophenolic Acid
+Docetaxel--- (-69993.5) ---Paclitaxel
+Carboplatin--- (-69950.0) ---Cisplatin
+
+Most positive connections:
+Paclitaxel--- (1114.0) ---Ramosetron
+Antiemetics--- (1089.0) ---Interferon-alpha
+Interferon alfacon-1--- (951.5) ---Ribavirin
+Gemcitabine--- (834.0) ---Ramosetron
+Interferon-alpha--- (814.5) ---Ramosetron
+Antiemetics--- (811.0) ---Gemcitabine
+Fluorouracil--- (798.0) ---Ramosetron
+Antiemetics--- (793.0) ---Fluorouracil
+Bevacizumab--- (792.0) ---Endothelium-Dependent Relaxing Factors
+Angiotensin II Type 1 Receptor Blockers--- (792.0) ---Bevacizumab
+Ramosetron--- (788.5) ---Ribavirin
+Bevacizumab--- (761.5) ---Ramosetron
+Antiemetics--- (749.0) ---Interferons
+Ramosetron--- (744.0) ---Sirolimus
+Interferon alfacon-1--- (728.0) ---Interferon-alpha
+Liposomal doxorubicin--- (726.0) ---Ramosetron
+Bevacizumab--- (724.0) ---Thyrotropin-Releasing Hormone
+Antiemetics--- (718.0) ---Ribavirin
+Bevacizumab--- (705.5) ---Trace Elements
+Bevacizumab--- (705.5) ---Micronutrients
+Antiemetics--- (685.0) ---Insulin
+Bevacizumab--- (682.5) ---Carteolol
+Docetaxel--- (669.0) ---Ramosetron
+Antiemetics--- (657.0) ---Liposomal doxorubicin
+Pemetrexed--- (650.5) ---Ramosetron
+Antiemetics--- (628.5) ---Docetaxel
+Bevacizumab--- (612.0) ---Doxylamine succinate
+Bevacizumab--- (612.0) ---Doxylamine
+Ramosetron--- (611.0) ---Rituximab
+Antiemetics--- (606.0) ---Methotrexate
+Antiemetics--- (604.0) ---Mycophenolate mofetil
+Antiemetics--- (594.5) ---Insulin, Globin Zinc
+Antiemetics--- (592.0) ---Mycophenolic Acid
+Antiemetics--- (578.0) ---Bevacizumab
+Antiemetics--- (572.5) ---Metformin
+Interferons--- (559.5) ---Ramosetron
+Antiemetics--- (549.0) ---Everolimus
+Bevacizumab--- (531.5) ---Triclosan
+Cisplatin--- (531.0) ---Ramosetron
+Doxorubicin--- (523.5) ---Ramosetron
+Ramosetron--- (522.0) ---Sorafenib
+Antiemetics--- (519.5) ---Paclitaxel
+Oxaliplatin--- (516.5) ---Ramosetron
+Cyclophosphamide--- (514.0) ---Ramosetron
+Ramosetron--- (510.0) ---Sunitinib
+Everolimus--- (499.0) ---Ramosetron
+Antiemetics--- (491.0) ---Lapatinib
+Cisplatin--- (490.5) ---Doxylamine succinate
+Cisplatin--- (490.5) ---Doxylamine
